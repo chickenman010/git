@@ -20,7 +20,7 @@ spring:
   # view Resolver
   mvc:
     view:
-      prefix: /WEB-INF/views/
+      prefix: /WEB-INF/views/mkh
       suffix: .jsp
 
   #gmail transfer      
